@@ -73,7 +73,7 @@ Capture live network packets and identify basic protocols and traffic types usin
 
 Captured packet file:
 
-network_capture.pcap
+[Download network_capture.pcap](network_capture.pcap)
 
 ---
 
