@@ -67,6 +67,9 @@ Capture live network packets and identify basic protocols and traffic types usin
 ### Packet Details
 <img width="1919" height="1095" alt="Image" src="https://github.com/user-attachments/assets/b1bc1a06-4498-465d-b5b7-573229f4b154" />
 
+### Command Prompt
+<img width="1474" height="497" alt="Image" src="https://github.com/user-attachments/assets/9de7d529-3ee4-429e-b9b7-2e470d47f025" />
+
 ---
 
 ## 💾 Output File
