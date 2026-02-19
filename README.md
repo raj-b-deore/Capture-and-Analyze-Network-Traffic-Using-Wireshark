@@ -52,19 +52,20 @@ Capture live network packets and identify basic protocols and traffic types usin
 ## 📸 Screenshots
 
 ### Active Interface Selection
-
+<img width="1915" height="1141" alt="Image" src="https://github.com/user-attachments/assets/50d7a1a1-8ee6-41c8-958a-d60a594eeba1" />
 
 ### DNS Protocol Filter
+<img width="1919" height="1142" alt="Image" src="https://github.com/user-attachments/assets/86334c2e-c9a7-4d9a-b214-a6098077e809" />
 
 
 ### TCP Protocol Filter
-
+<img width="1919" height="1139" alt="Image" src="https://github.com/user-attachments/assets/05823334-9dfa-4f7d-9dbf-1f9b74f63f70" />
 
 ### HTTP Protocol Filter
-
+<img width="1919" height="1138" alt="Image" src="https://github.com/user-attachments/assets/1466a586-12b8-4448-8b27-cb94b9046516" />
 
 ### Packet Details
-
+<img width="1919" height="1095" alt="Image" src="https://github.com/user-attachments/assets/b1bc1a06-4498-465d-b5b7-573229f4b154" />
 
 ---
 
